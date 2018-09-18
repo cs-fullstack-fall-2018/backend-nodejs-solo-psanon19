@@ -1,3 +1,4 @@
-node_modules
+/home/student/CodeSchool/IdeaProjects/BackEnd/backend-nodejs-solo-psanon19/node_modules
+node_modules/
 *.iml
 .idea/
